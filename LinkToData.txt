@@ -1,0 +1,5 @@
+Đường dẫn đến thư mục dữ liệu:
+
+https://github.com/lsanhtan/CNN_Vector/tree/main/data
+
+Chương trình chụp màn hình cho quá trình thu thập dữ liệu: ScreenCapture.py
